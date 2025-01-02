@@ -20,7 +20,7 @@
 }
 
 .resumeHead {
-  color: #0088cc;
+  color: hsla(119, 70%, 48%, 0.894);
   font-size: 18px;
 }
 
@@ -39,7 +39,7 @@
   width: 1rem;
   height: 1rem;
   border-radius: 50%;
-  background-color: #0088cc;
+  background-color: hsla(119, 69%, 23%, 0.894);
   top: 0;
 }
 

@@ -1,6 +1,6 @@
 import Image from "next/image";
 import styles from "../styles/About.module.css";
-import brain from "../public/profile.png";
+import druxamb from "../public/profile.png";
 
 export default function AboutMe() {
   return (
@@ -9,7 +9,7 @@ export default function AboutMe() {
         <div className={styles.grid}>
           <div className={styles.imageContainer} data-aos="fade-right">
             <Image
-              src={brain}
+              src={druxamb}
               alt="About Me"
               width={150}
               height={150}
