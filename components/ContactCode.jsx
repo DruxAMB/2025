@@ -3,8 +3,8 @@ import styles from '../styles/ContactCode.module.css';
 const contactItems = [
   {
     social: 'website',
-    link: 'druxamb.me',
-    href: 'https://druxamb.me',
+    link: 'druxamb.dev',
+    href: 'https://druxamb.dev',
   },
   {
     social: 'email',
