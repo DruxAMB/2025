@@ -24,6 +24,32 @@
   --article-bg: #1f2428;
 }
 
+/* Druxamb Green */
+[data-theme='druxamb-green'] {
+  --main-bg: #1a2b1a; /* Dark green background */
+  --bg-text: #223322; /* Slightly lighter green for contrast */
+  --text-color: #e0ffe0; /* Light green for text */
+  --accent-color: #4caf50; /* Vibrant green accent */
+  --titlebar-bg: #143d14; /* Darker green for title bar */
+  --sidebar-bg: #1e401e; /* Sidebar background */
+  --sidebar-hover-bg: #2b5c2b; /* Sidebar hover background */
+  --explorer-bg: #1a3a1a; /* Explorer background */
+  --explorer-hover-bg: #2e552e; /* Explorer hover background */
+  --explorer-border: #163216; /* Explorer border */
+  --tabs-bg: #143d14; /* Tabs background */
+  --tab-bg: #1e401e; /* Tab background */
+  --tab-active-bg: #2e552e; /* Active tab background */
+  --tab-border: #0f290f; /* Tab border */
+  --bottombar-bg: #143d14; /* Bottom bar background */
+  --bottombar-border: #0f290f; /* Bottom bar border */
+  --button-bg: #4caf50; /* Button background */
+  --button-text: #ffffff; /* Button text */
+  --bottombar-hover-bg: #3d5c3d; /* Bottom bar hover */
+  --scrollbar-track-bg: #1a2b1a; /* Scrollbar track */
+  --scrollbar-thumb-bg: #4caf50; /* Scrollbar thumb */
+  --article-bg: #223322; /* Article background */
+}
+
 /* Dracula */
 [data-theme='dracula'] {
   --main-bg: #282a36;

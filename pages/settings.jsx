@@ -7,6 +7,13 @@ const SettingsPage = () => {
       <h2>Manage Themes</h2>
       <div className={styles.container}>
         <ThemeInfo
+          name="DruxAMB"
+          icon="/logo.png"
+          publisher="druxamb"
+          theme="druxamb-green"
+          description="DruxAMB custom theme for VS Code"
+        />
+        <ThemeInfo
           name="GitHub Dark"
           icon="/github-dark.png"
           publisher="GitHub"
