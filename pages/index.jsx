@@ -1,5 +1,4 @@
 import Link from "next/link";
-import Illustration from "../components/Illustration";
 import styles from "../styles/HomePage.module.css";
 
 export default function HomePage() {
@@ -25,7 +24,7 @@ export default function HomePage() {
             <div className={`${styles.box}`}></div>
             <img
               className={styles.illustration}
-              src="/profile.png"
+              src="/octocat.png"
               id="profile"
               alt="image"
             />
