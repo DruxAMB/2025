@@ -1,6 +1,15 @@
 [
   {
     "id": 1,
+    "name": "ProofPrep AI",
+    "image": "https://imgur.com/crSIjkk.png",
+    "description": "AI-Powered Interview Preparation Platform",
+    "tags": ["next", "onchainkit", "coinbase x402", "firbase", "vapi", "gemini", "zoralabs/sdk"],
+    "source_code": "https://github.com/DruxAMB/ProofPrep",
+    "demo": "https://proofprep.druxamb.dev/"
+  },
+  {
+    "id": 2,
     "name": "learnOnchain",
     "image": "https://imgur.com/Dink16p.png",
     "description": "an LMS platform to foster innovation and bring the next billion users Onchain.",
@@ -9,7 +18,34 @@
     "demo": "https://base-learn.vercel.app/"
   },
   {
-    "id": 2,
+    "id": 3,
+    "name": "AroundTheWorld",
+    "image": "https://imgur.com/SK8wOav.png",
+    "description": "Around The World is a match-3 style game built on Base",
+    "tags": ["next", "minikit", "zoralabs/sdk", "zoralabs contract", "framer", "minikit"],
+    "source_code": "https://github.com/DruxAMB/AroundTheWorld/tree/main",
+    "demo": "https://around-the-world-rho-blond.vercel.app/"
+  },
+  {
+    "id": 4,
+    "name": "Chaapa Ride",
+    "image": "https://imgur.com/WIAgbMZ.png",
+    "description": "a Ride Hailing platform that connects drivers and riders",
+    "tags": ["next", "solidity", "firbase", "react-native", "clerk", "expo"],
+    "source_code": "https://github.com/DruxAMB/",
+    "demo": "https://chaaparide.com/"
+  },
+  {
+    "id": 5,
+    "name": "QR Code Generator",
+    "image": "https://imgur.com/XwKTEI6.png",
+    "description": "Generate - Download - Share QR Codes",
+    "tags": ["next", "minikit", "ethers", "qrcode", "farcaster", "solidity"],
+    "source_code": "https://github.com/DruxAMB/Base-Batches-QR-Code-Generator/",
+    "demo": "https://getqrcode.vercel.app/"
+  },
+  {
+    "id": 6,
     "name": "tokenForge",
     "image": "https://imgur.com/9prAEQH.png",
     "description": "Transform your vision into tokens instantly on tokenForge.",
@@ -18,7 +54,7 @@
     "demo": "https://token-forge-five.vercel.app/"
   },
   {
-    "id": 3,
+    "id": 7,
     "name": "GeoMarkt",
     "image": "https://imgur.com/7WlffJ0.png",
     "description": "A platform for prediction & real estate market, all in one.",
@@ -27,7 +63,7 @@
     "demo": "https://noisy-raincoat-many.on-fleek.app/"
   },
   {
-    "id": 4,
+    "id": 8,
     "name": "utipay",
     "image": "https://imgur.com/jymsyfP.png",
     "description": "The Luxury of Seamless Bills Payment",
@@ -36,7 +72,7 @@
     "demo": "https://utipay.com.ng/"
   },
   {
-    "id": 5,
+    "id": 9,
     "name": "bondX",
     "image": "https://imgur.com/fpqZYoQ.png",
     "description": "A decentralized platform for creating, managing and trading tokenized bonds",
@@ -45,7 +81,7 @@
     "demo": "https://bondx-frontend-gamma.vercel.app"
   },
   {
-    "id": 6,
+    "id": 10,
     "name": "Gotocourse Africa",
     "image": "https://imgur.com/pQnzoq1.png",
     "description": "Worked on 2 gotocourse website builder template",
@@ -53,7 +89,7 @@
     "demo": "https://gotocourse.com/"
   },
   {
-    "id": 7,
+    "id": 11,
     "name": "myComputerENGR",
     "image": "https://imgur.com/pjBr5bI.png",
     "description": "Gadget ( computer, smartphones & apple devices ) Repair Company",
@@ -62,7 +98,7 @@
     "demo": "https://myComputerENGR.com.ng/"
   },
   {
-    "id": 8,
+    "id": 12,
     "name": "Trope Cast",
     "image": "https://imgur.com/tDt80YI.png",
     "description": "Football Onchain ( farcaster based application )",
@@ -71,7 +107,7 @@
     "demo": "https://trope-cast.vercel.app/"
   },
   {
-    "id": 9,
+    "id": 13,
     "name": "Responsive Cars Website",
     "image": "https://imgur.com/gyuh6Dm.png",
     "description": "A responsive landing page for cars",
@@ -80,7 +116,7 @@
     "demo": "https://car-site-peach.vercel.app/"
   },
   {
-    "id": 10,
+    "id": 14,
     "name": "IP Address Tracker",
     "image": "https://imgur.com/nC5m3Br.png",
     "description": "It helps in tracking the current location of an IP ADDRESS",
@@ -89,7 +125,7 @@
     "demo": "https://drux-amb-ip-address-tracker.vercel.app/"
   },
   {
-    "id": 11,
+    "id": 15,
     "name": "Responsive Watches Siter",
     "image": "https://imgur.com/oBU4Ehw.png",
     "description": "A responsive Landing page for rolex wrist watches",
