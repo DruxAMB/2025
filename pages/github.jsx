@@ -12,6 +12,16 @@ const GithubPage = ({ repos, user }) => {
     level4: '#39d353',
   };
 
+  // If user is null, display a fallback message
+  if (!user) {
+    return (
+      <div className={styles.container}>
+        <h2>GitHub data unavailable</h2>
+        <p>Unable to fetch GitHub profile information. Please check your API token.</p>
+      </div>
+    );
+  }
+
   return (
     <>
       <div className={styles.user}>
